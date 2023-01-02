@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,8 @@
   "homepage": "https://github.com/Kishan1998v/BKend-Day-8---WebScrapping#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "ngrok": "^4.3.3",
+    "nodemon": "^2.0.20",
     "puppeteer": "^19.4.1"
   }
 }
