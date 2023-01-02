@@ -1,0 +1,5 @@
+.gitignore :
+    what it will do is it ignore the file/folder that u don't want git to read .
+    just write the name :
+    ex:
+        node_modules/

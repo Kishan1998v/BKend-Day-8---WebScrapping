@@ -1,0 +1,23 @@
+{
+  "name": "bkend-day-8---webscrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kishan1998v/BKend-Day-8---WebScrapping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kishan1998v/BKend-Day-8---WebScrapping/issues"
+  },
+  "homepage": "https://github.com/Kishan1998v/BKend-Day-8---WebScrapping#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^19.4.1"
+  }
+}
